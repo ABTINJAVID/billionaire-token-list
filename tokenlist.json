@@ -1,0 +1,21 @@
+{
+  "name": "Billionaire Signal Token List",
+  "logoURI": "https://billionairesignal.com/public//admin-assets/providers/17456740425365.png",
+  "keywords": ["billionaire", "signal", "token"],
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0x31b230751b0896ced0ba0b240007a56d9d76f9c2",
+      "name": "Billionaire Signal",
+      "symbol": "BSC",
+      "decimals": 18,
+      "logoURI": "https://billionairesignal.com/public//admin-assets/providers/17456740425365.png"
+    }
+  ],
+  "timestamp": "2025-04-26T00:00:00Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}
